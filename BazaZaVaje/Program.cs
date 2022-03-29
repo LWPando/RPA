@@ -14,6 +14,7 @@ namespace BazaZaVaje
             //vsi dobavitelji
             var x1 = from a in context.DOBAVITELJ
                      select a;
+            //var x1 = context.DOBAVITELJ.Select(e => e);
             foreach(var y in x1)
             {
                 Console.WriteLine(y.D_IME + " " + y.D_KONTAKT);
