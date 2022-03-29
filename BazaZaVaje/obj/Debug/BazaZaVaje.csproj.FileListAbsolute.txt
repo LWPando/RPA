@@ -1,0 +1,12 @@
+C:\RPA\BazaZaVaje\bin\Debug\BazaZaVaje.exe.config
+C:\RPA\BazaZaVaje\bin\Debug\BazaZaVaje.exe
+C:\RPA\BazaZaVaje\bin\Debug\BazaZaVaje.pdb
+C:\RPA\BazaZaVaje\bin\Debug\EntityFramework.dll
+C:\RPA\BazaZaVaje\bin\Debug\EntityFramework.SqlServer.dll
+C:\RPA\BazaZaVaje\bin\Debug\EntityFramework.xml
+C:\RPA\BazaZaVaje\bin\Debug\EntityFramework.SqlServer.xml
+C:\RPA\BazaZaVaje\obj\Debug\BazaZaVaje.csproj.AssemblyReference.cache
+C:\RPA\BazaZaVaje\obj\Debug\BazaZaVaje.csproj.CoreCompileInputs.cache
+C:\RPA\BazaZaVaje\obj\Debug\BazaZaVaje.csproj.CopyComplete
+C:\RPA\BazaZaVaje\obj\Debug\BazaZaVaje.exe
+C:\RPA\BazaZaVaje\obj\Debug\BazaZaVaje.pdb
