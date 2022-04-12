@@ -1,0 +1,15 @@
+C:\RPA\Povezovanje\bin\Debug\Povezovanje.exe.config
+C:\RPA\Povezovanje\bin\Debug\Povezovanje.exe
+C:\RPA\Povezovanje\bin\Debug\Povezovanje.pdb
+C:\RPA\Povezovanje\obj\Debug\Povezovanje.csproj.AssemblyReference.cache
+C:\RPA\Povezovanje\obj\Debug\MainWindow.g.cs
+C:\RPA\Povezovanje\obj\Debug\App.g.cs
+C:\RPA\Povezovanje\obj\Debug\Povezovanje_MarkupCompile.cache
+C:\RPA\Povezovanje\obj\Debug\Povezovanje_MarkupCompile.lref
+C:\RPA\Povezovanje\obj\Debug\MainWindow.baml
+C:\RPA\Povezovanje\obj\Debug\Povezovanje.g.resources
+C:\RPA\Povezovanje\obj\Debug\Povezovanje.Properties.Resources.resources
+C:\RPA\Povezovanje\obj\Debug\Povezovanje.csproj.GenerateResource.cache
+C:\RPA\Povezovanje\obj\Debug\Povezovanje.csproj.CoreCompileInputs.cache
+C:\RPA\Povezovanje\obj\Debug\Povezovanje.exe
+C:\RPA\Povezovanje\obj\Debug\Povezovanje.pdb
